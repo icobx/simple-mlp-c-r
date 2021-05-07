@@ -1,0 +1,12 @@
+Age -  int (days)
+Height  - int (cm)
+Weight - float (kg)
+Gender  - string (woman/man)
+Systolic blood pressure  (ap_hi) -  int
+Diastolic  blood pressure (ap_lo) - int
+Cholesterol - string (normal, above normal,  well above normal)
+Glucose - string (normal, above normal, well above normal)
+Smoking (smoke) - binary
+Alcohol intake (alco) - binary
+Physical activity (active) - binary
+Presence or absence of cardiovascular disease - Target Variable - (cardio) - binary
